@@ -36,5 +36,5 @@
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/TicTacToeFX.git
+git clone https://github.com/anshumanjadiya1102/TicTacToeFX.git
 cd TicTacToeFX
